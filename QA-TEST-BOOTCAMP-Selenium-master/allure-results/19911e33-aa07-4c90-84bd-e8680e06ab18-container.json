@@ -1,0 +1,1 @@
+{"uuid":"19911e33-aa07-4c90-84bd-e8680e06ab18","name":"AddProduct","children":["20714842-c74b-44fb-b1d5-7e05bce1f26f"],"befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1703518962348,"stop":1703518973940}],"afters":[],"start":1703518962269,"stop":1703518985891}
